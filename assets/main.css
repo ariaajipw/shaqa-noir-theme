@@ -2505,7 +2505,7 @@ footer#footer {
 }
 
 #footer a.footer-social-button {
-  color: #ffffff;
+  color: #000000;
 }
 #footer .s-text7 {
   color: #555555;
@@ -2551,7 +2551,6 @@ section.instagram .owl-carousel .block4 {
 		-webkit-box-pack: center;
 		-ms-flex-pack: center;
 		justify-content: center;
-    color: black;
 	}
 
 	.footer__social-icons > a:last-child {
