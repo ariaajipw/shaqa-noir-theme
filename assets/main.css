@@ -2551,10 +2551,12 @@ section.instagram .owl-carousel .block4 {
 		-webkit-box-pack: center;
 		-ms-flex-pack: center;
 		justify-content: center;
+    color: #000000;
 	}
 
 	.footer__social-icons > a:last-child {
 		padding-right: 0;
+    color: #000000;
 	}
 
 	#subscribe input {
