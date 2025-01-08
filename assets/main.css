@@ -2551,6 +2551,7 @@ section.instagram .owl-carousel .block4 {
 		-webkit-box-pack: center;
 		-ms-flex-pack: center;
 		justify-content: center;
+    color: black;
 	}
 
 	.footer__social-icons > a:last-child {
