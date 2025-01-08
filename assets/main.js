@@ -1,6 +1,8 @@
 (function ($) {
     "use strict";
 
+    console.log ("halo");
+
     /*[ Load page ]
     ===========================================================*/
     $(".animsition").animsition({
