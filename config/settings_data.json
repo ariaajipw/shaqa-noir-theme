@@ -341,7 +341,7 @@
       "blog_CiBCLm": {
         "type": "blog",
         "custom_css": [
-          ".block3-img {height: 462px;}"
+          ".block3-img {height: 362px;}"
         ],
         "settings": {
           "layout": "blog-1",
