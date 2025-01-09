@@ -340,6 +340,9 @@
       },
       "blog_CiBCLm": {
         "type": "blog",
+        "custom_css": [
+          ".block3-img {height: 462px;}"
+        ],
         "settings": {
           "layout": "blog-1",
           "heading": "LATEST BLOGS & UPDATES",
