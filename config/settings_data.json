@@ -58,7 +58,7 @@
     "show_cart_top_image": true,
     "ajax_cart_method": "page",
     "show_blog_top_image": true,
-    "no_articles": "2",
+    "no_articles": "3",
     "show_blog_side_listing": true,
     "blog_side_listing_title": "Featured Products",
     "blog_side_listing": "featured",
